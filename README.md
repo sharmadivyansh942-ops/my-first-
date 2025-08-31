@@ -1,0 +1,15 @@
+
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>my friend</title>
+</head>
+<body>
+    <h1>aalok meri jaan</h1>
+    <h2>bhai hai tu apna</h2>
+    <h3>ye iski insta profile hai</h3>
+    <a href="https://www.instagram.com/_aalok.tiwari_?igsh=MTExenNnb2ZncTE1aA==" target="_blank">
+        Click Here
+    </a>
+</body>
+</html>
